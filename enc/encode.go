@@ -14,7 +14,7 @@ import (
 	"errors"
 	"unsafe"
 
-	"github.com/kothar/brotli-go/shared"
+	"github.com/laysakura/brotli-go/shared"
 )
 
 func init() {

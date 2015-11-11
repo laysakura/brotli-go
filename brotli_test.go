@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"github.com/kothar/brotli-go/dec"
-	"github.com/kothar/brotli-go/enc"
+	"github.com/laysakura/brotli-go/dec"
+	"github.com/laysakura/brotli-go/enc"
 )
 
 func TestSimpleString(T *testing.T) {
